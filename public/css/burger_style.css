@@ -1,0 +1,59 @@
+body{
+	background-color: red;
+	color: yellow;
+}
+
+h1{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+#pic{
+	width: 30%;
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#not-eaten{
+	width: 30%;
+	float: left;
+	box-sizing: border-box;
+}
+
+#eaten{
+	width: 30%;
+	box-sizing: border-box;
+	float: left;
+}
+
+#burger-display{
+	width: 95%;
+	box-sizing: border-box;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+#add-burger{
+	width: 100%;
+	float: left;
+}
+
+#input{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button{
+	background-color: yellow;
+	color: red;
+	border: 3px solid black;
+	margin: 5px;
+}
+
+#add-burger-button{
+	
+}
